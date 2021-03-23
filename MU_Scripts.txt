@@ -1,0 +1,17 @@
+Private Sample Essentials made by spydude2w1
+
+const Discord = require('discord.js')
+const got = require('got')
+// for Embeds
+
+module.exports = {
+    name: 'sample',
+    description: "this is a sample command!",
+    execute(message, args){
+
+    }
+}
+// If your using a command handler, you can add a new module such as usage and permissions if you want.
+
+Address 
+C:\Users\ADMIN\Desktop\Bots\Terma V1.2
