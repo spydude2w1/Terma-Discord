@@ -1,0 +1,15 @@
+module.exports = (Discord, client, cmd) => {
+    console.log(`\x1b[37m`)
+    console.log(`\x1b[42mINFO\x1b[40m \x1b[30m\x1b[32mStarting...\x1b[37m`)
+    console.log(`\x1b[37m`)
+    console.log(`\x1b[42mINFO\x1b[40m \x1b[37m----------------------------------\x1b[37m`)
+    console.log(`\x1b[42mINFO\x1b[40m \x1b[36m              Terma v3.2\x1b[37m`)
+    console.log(`\x1b[42mINFO\x1b[40m \x1b[34m    Developed by \x1b[31mspydude2w1 (6spyy#0001)\x1b[37m`)
+    console.log(`\x1b[42mINFO\x1b[40m \x1b[34m          Error Logging Enabled! ✔\x1b[37m`)
+    console.log(`\x1b[42mINFO\x1b[40m \x1b[37m----------------------------------\x1b[37m`)
+    console.log(`\x1b[37m`)
+    console.log(`\x1b[37m`)
+    console.log(`\x1b[42mINFO\x1b[40m \x1b[32mSuccesfully Started!\x1b[37m`)
+    console.log(`\x1b[37m`)
+    console.log(`\x1b[42mINFO\x1b[40m \x1b[32mLoaded Core\x1b[37m`)
+}
